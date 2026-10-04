@@ -4,5 +4,7 @@ $arr = explode(" ",$str);//explode ane function dwara string ni array ga changr 
 $arr[1] = strrev($arr[1]);//hello dlrow
 echo implode(" ",$arr);
 
+echo "Testing Code";
+
 
 ?>
